@@ -1,4 +1,4 @@
-## Available Scripts
+## e-commerce Frontend with React
 
 This is a front end version of the  e-commerce project in MERN. In the front end we implement an e-commerce platform with home page, category page, product details page, a cart, checkout wizard, authentication.
 
